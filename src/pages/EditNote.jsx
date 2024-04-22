@@ -136,7 +136,7 @@ const EditNote = ({ notes, setNotes }) => {
                     <div className="media-preview">
                         {mediaType.startsWith('image/') ? (
                             <div className='media-container'>
-                            <img src={mediaUrl} alt={`Image: ${title}`} className="uploaded-media" />
+                            <img src={mediaUrl} alt={ title} className="uploaded-media" />
                             <button className="remove-media" onClick={handleRemoveMedia}>
                                     X
                                 </button>

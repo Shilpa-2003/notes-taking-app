@@ -26,7 +26,7 @@ const Notes = ({ notes }) => {
     return (
         <section>
             <header className='notes__header'>
-                {!showSearch && <h2>My Notes</h2>}
+                {!showSearch && <h1>My Notes</h1>}
                 {showSearch && <input type="text" value={text} onChange={(e) => {
                     setText(e.target.value);
                     handleSearch();
