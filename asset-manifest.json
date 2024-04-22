@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/notes-taking-app/static/css/main.390029ac.css",
-    "main.js": "/notes-taking-app/static/js/main.1560ad2b.js",
-    "static/js/453.64be9eb2.chunk.js": "/notes-taking-app/static/js/453.64be9eb2.chunk.js",
-    "index.html": "/notes-taking-app/index.html",
-    "main.390029ac.css.map": "/notes-taking-app/static/css/main.390029ac.css.map",
-    "main.1560ad2b.js.map": "/notes-taking-app/static/js/main.1560ad2b.js.map",
-    "453.64be9eb2.chunk.js.map": "/notes-taking-app/static/js/453.64be9eb2.chunk.js.map"
+    "main.css": "/static/css/main.390029ac.css",
+    "main.js": "/static/js/main.c89ebcf9.js",
+    "static/js/453.64be9eb2.chunk.js": "/static/js/453.64be9eb2.chunk.js",
+    "index.html": "/index.html",
+    "main.390029ac.css.map": "/static/css/main.390029ac.css.map",
+    "main.c89ebcf9.js.map": "/static/js/main.c89ebcf9.js.map",
+    "453.64be9eb2.chunk.js.map": "/static/js/453.64be9eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.390029ac.css",
-    "static/js/main.1560ad2b.js"
+    "static/js/main.c89ebcf9.js"
   ]
 }
